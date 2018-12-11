@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "688590364601",
+    "firebase_url": "https://piano2-bd949.firebaseio.com",
+    "project_id": "piano2-bd949",
+    "storage_bucket": "piano2-bd949.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688590364601:android:5fd27900bf0eaf0f",
+        "android_client_info": {
+          "package_name": "com.nextwin.pianika.undertale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688590364601-o1q7t33rbqb782numua1cjo7uami9401.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDffZGGoE8mwIav4FJOdrS6if4LTzdyw7E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688590364601:android:28f0bc7a2b7026bc",
+        "android_client_info": {
+          "package_name": "com.nextwin.piano.undertale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688590364601-o1q7t33rbqb782numua1cjo7uami9401.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDffZGGoE8mwIav4FJOdrS6if4LTzdyw7E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
